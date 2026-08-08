@@ -1,3 +1,8 @@
+## graphql-api
+
+[![CI](https://github.com/null8878/graphql-api/actions/workflows/ci.yml/badge.svg)](https://github.com/null8878/graphql-api/actions)[![Security](https://github.com/null8878/graphql-api/actions/workflows/security.yml/badge.svg)](https://github.com/null8878/graphql-api/actions/workflows/security.yml)[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # GraphQL API
 
 Production-ready GraphQL API with Apollo Server, TypeScript, authentication, and real-time subscriptions.
